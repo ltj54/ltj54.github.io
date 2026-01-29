@@ -2,11 +2,11 @@
   "name": "Samlivsbrudd",
   "short_name": "Samlivsbrudd",
   "description": "Struktur i en uoversiktlig situasjon.",
-  "start_url": "/samlivsbrudd/",
+  "start_url": "/samlivsbrudd/?source=pwa",
   "scope": "/samlivsbrudd/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "theme_color": "#1f2937",
   "icons": [
     {
       "src": "/samlivsbrudd/icons/icon-192.png",
